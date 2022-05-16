@@ -9,7 +9,11 @@ Software: Python 3.7.6, JupyterLab 2.26
 The purpose of this project is to perform exploratory analysis of Pyber ride sharing data in order to gain an understanding of ridership and fare metrics by the types of cities in which Pyber operates. creating visualizations of rideshare data for PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods.
 
 # Results
-through analysis and aggregation of PyBers ride sharing data, I have created a statistical overview and summary.
+## Statistical overview and summary
+![alt text](https://github.com/tarini-mi7/PyBer_Analysis/blob/main/analysis/Pyber_summary.png)
+![alt text](https://github.com/tarini-mi7/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png)
+
+
 
 
 By reviewing the summary we can see that there are several key findings including:
