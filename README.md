@@ -17,6 +17,7 @@ The purpose of this project is to perform exploratory analysis of Pyber ride sha
 
 
 By reviewing the summary we can see that there are several key findings including:
+![alt text](https://github.com/tarini-mi7/PyBer_Analysis/blob/main/analysis/pyber_data_summary.png)
 
 Urban cities have the highest ridership demand while rural cities have the least.
 Urban cities have 4x+ more drivers than suburban cities.
